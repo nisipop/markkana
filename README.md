@@ -1,5 +1,5 @@
 # markkana
-An unreal engine project decicated to old Finnish Markka. Please find the 3D models in Blender and Unreal formats in the Meshes folder.
+An unreal engine project decicated to old Finnish Markka. Please find the 3D models in Blender and Unreal formats in the [Meshes](https://github.com/nisipop/markkana/tree/main/Meshes) folder.
 
 If you might think about markka licenses, the Finnish National Bank has announced the images of Markka are free of copyright restrictions. Also, markka is obsolete currency, outdated completely.
 
