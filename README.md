@@ -6,7 +6,7 @@ If you might think about markka licenses, the Finnish National Bank has announce
 The project also contains a couple of Unreal Blueprints that are free to use. The main blue print "BP_CoinSpawnerSpot_001.uasset" spawns static mesh actors at desired intervals, however, in this case you could spawn the coins in the project. Make your markka casino! Here's short introduction how the blueprint works:
 
 1) Initialize spawn, cleaning and stopping of spawning
-![alt text]([http://url/to/img.png](https://github.com/nisipop/markkana/blob/main/BlueprintScreenshots/SpawnBeginPlay.PNG?raw=true))
+![StopSpawn](https://github.com/nisipop/markkana/assets/53601721/0ad5939a-1a7b-460f-ab96-2e4ef351a83b)
 
 
 2) The main spawning custom event
