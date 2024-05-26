@@ -3,7 +3,7 @@ An unreal engine project decicated to old Finnish Markka. Please find the 3D mod
 
 If you might think about markka licenses, the Finnish National Bank has announced the images of markka coins are free of copyright restrictions. Also, markka is obsolete currency, outdated completely.
 
-The project also contains a couple of Unreal Blueprints that are free to use. The main blue print "BP_CoinSpawnerSpot_001.uasset" spawns static mesh actors at desired intervals, however, in this case you could spawn the coins in the project. Make your markka casino! Here's short introduction how the blueprint works:
+The project also contains a couple of Unreal Blueprints that are free to use. The main blue print "BP_CoinSpawnerSpot_001.uasset" spawns static mesh actors at desired intervals, however, in this case you could spawn the coins in the project. Make your markka casino! Here's short introduction how the [blueprint coin spawner](https://github.com/nisipop/markkana/tree/main/Blueprints) works:
 
 1) Initialize spawn, cleaning and stopping of spawning
 
