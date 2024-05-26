@@ -32,5 +32,3 @@ The project also contains a couple of Unreal Blueprints that are free to use. Th
 
 ![StopSpawn](https://github.com/nisipop/markkana/assets/53601721/23a8fb01-09c9-4bd7-8b98-ccbf0793504a)
 
-
-nisipop@gmail.com/etyylimetyylieetteri2
